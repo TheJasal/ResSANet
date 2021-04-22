@@ -1,0 +1,340 @@
+
+[epoch   1]	train loss: 1.733367		val loss: 3.936124 	 validate acc: 0.304700 
+
+[epoch   2] 	 train loss: 0.992712 	 val loss: 1.280086 	 validate acc: 0.645057 
+
+[epoch   3] 	 train loss: 1.448700 	val loss: 0.993809 	 validate acc: 0.693679 
+
+[epoch   4] 	 train loss: 1.309212                val loss: 0.904655 	 validate acc: 0.728930 
+
+[epoch   5] 	 train loss: 0.728048                val loss: 0.874777 	 validate acc: 0.747974 
+
+[epoch   6] 	 train loss: 0.578972                val loss: 0.862948 	 validate acc: 0.741491 
+
+[epoch   7] 	 train loss: 1.000043 	 val loss: 0.760038 	 validate acc: 0.767828 
+
+[epoch   8] 	 train loss: 0.852574 	 val loss: 0.756343 	 validate acc: 0.773096 
+
+[epoch   9] 	 train loss: 0.676896 	 val loss: 0.609980 	 validate acc: 0.810373 
+
+[epoch  10] 	 train loss: 0.938843 	 val loss: 0.631006 	 validate acc: 0.798217 
+
+[epoch  11] 	 train loss: 0.802490 	 val loss: 0.531121 	 validate acc: 0.846029 
+
+[epoch  12] 	 train loss: 0.689950 	 val loss: 0.571177 	 validate acc: 0.825365 
+
+[epoch  13] 	 train loss: 0.298068 	 val loss: 0.557366 	 validate acc: 0.836305 
+
+[epoch  14] 	 train loss: 0.706427 	 val loss: 0.540475 	 validate acc: 0.831848 
+
+[epoch  15] 	 train loss: 0.346393 	 val loss: 0.477925 	 validate acc: 0.849271 
+
+[epoch  16] 	 train loss: 0.497674 	 val loss: 0.584776 	 validate acc: 0.822123 
+
+[epoch  17] 	 train loss: 0.316445 	 val loss: 0.574880 	 validate acc: 0.827391 
+
+[epoch  18] 	 train loss: 0.409028 	 val loss: 0.445483 	 validate acc: 0.865478 
+
+[epoch  19] 	 train loss: 0.743345 	 val loss: 0.466620 	 validate acc: 0.855754 
+
+[epoch  20] 	 train loss: 0.539116 	 val loss: 0.503921 	 validate acc: 0.856969 
+
+[epoch  21] 	 train loss: 0.682175 	 val loss: 0.479140 	 validate acc: 0.854538 
+
+[epoch  22] 	 train loss: 0.511173 	 val loss: 0.420104 	 validate acc: 0.877634 
+
+[epoch  23] 	 train loss: 0.440988 	 val loss: 0.434151 	 validate acc: 0.868314 
+
+[epoch  24] 	 train loss: 0.370843 	 val loss: 0.445970 	 validate acc: 0.866694 
+
+[epoch  25] 	 train loss: 0.299505 	 val loss: 0.399375 	 validate acc: 0.878444 
+
+[epoch  26] 	 train loss: 0.257881 	 val loss: 0.395648 	 validate acc: 0.876823 
+
+[epoch  27] 	 train loss: 0.766529 	 val loss: 0.371046 	 validate acc: 0.888574 
+
+[epoch  28] 	 train loss: 0.462883 	 val loss: 0.417815 	 validate acc: 0.871556 
+
+[epoch  29] 	 train loss: 0.461452 	 val loss: 0.370339 	 validate acc: 0.888979 
+
+[epoch  30] 	 train loss: 0.369431 	 val loss: 0.371999 	 validate acc: 0.885737 
+
+[epoch  31] 	 train loss: 0.190343 	 val loss: 0.376762 	 validate acc: 0.888574 
+
+[epoch  32] 	 train loss: 0.213119 	 val loss: 0.379624 	 validate acc: 0.884522 
+
+[epoch  33] 	 train loss: 0.435453 	 val loss: 0.368199 	 validate acc: 0.892626 
+
+[epoch  34] 	 train loss: 0.560796 	 val loss: 0.354047 	 validate acc: 0.888169 
+
+[epoch  35] 	 train loss: 0.227002 	 val loss: 0.396360 	 validate acc: 0.883306 
+
+[epoch  36] 	 train loss: 0.421375 	 val loss: 0.404255 	 validate acc: 0.882091 
+
+[epoch  37] 	 train loss: 0.862271 	 val loss: 0.383599 	 validate acc: 0.883712 
+
+[epoch  38] 	 train loss: 0.547307 	 val loss: 0.386220 	 validate acc: 0.887763 
+
+[epoch  39] 	 train loss: 0.624024 	 val loss: 0.352091 	 validate acc: 0.890194 
+
+[epoch  40] 	 train loss: 0.213660 	 val loss: 0.368525 	 validate acc: 0.890600 
+
+[epoch  41] 	 train loss: 0.580551 	 val loss: 0.352542 	 validate acc: 0.893031 
+
+[epoch  42] 	 train loss: 0.178306 	 val loss: 0.373862 	 validate acc: 0.882901 
+
+[epoch  43] 	 train loss: 0.202605 	 val loss: 0.375327 	 validate acc: 0.895462 
+
+[epoch  44] 	 train loss: 0.358724 	 val loss: 0.343393 	 validate acc: 0.897083 
+
+[epoch  45] 	 train loss: 0.430725 	 val loss: 0.339181 	 validate acc: 0.897488 
+
+[epoch  46] 	 train loss: 0.319845 	 val loss: 0.342643 	 validate acc: 0.901945 
+
+[epoch  47] 	 train loss: 0.566020 	 val loss: 0.312315 	 validate acc: 0.902350 
+
+[epoch  48] 	 train loss: 0.336475 	 val loss: 0.352609 	 validate acc: 0.894652 
+
+[epoch  49] 	 train loss: 0.203458 	 val loss: 0.343418 	 validate acc: 0.900729 
+
+[epoch  50] 	 train loss: 0.201330 	 val loss: 0.328074 	 validate acc: 0.903971 
+
+[epoch  51] 	 train loss: 0.138657 	 val loss: 0.318050 	 validate acc: 0.897083 
+
+[epoch  52] 	 train loss: 0.504313 	 val loss: 0.315747 	 validate acc: 0.908428 
+
+[epoch  53] 	 train loss: 0.361162 	 val loss: 0.315247 	 validate acc: 0.908023 
+
+[epoch  54] 	 train loss: 0.367198 	 val loss: 0.328892 	 validate acc: 0.897488 
+
+[epoch  55] 	 train loss: 0.429658 	 val loss: 0.349744 	 validate acc: 0.895462 
+
+[epoch  56] 	 train loss: 0.332275 	 val loss: 0.328082 	 validate acc: 0.909643 
+
+[epoch  57] 	 train loss: 0.307987 	 val loss: 0.330056 	 validate acc: 0.901945 
+
+[epoch  58] 	 train loss: 0.213248 	 val loss: 0.345488 	 validate acc: 0.893031 
+
+[epoch  59] 	 train loss: 0.188784 	 val loss: 0.328260 	 validate acc: 0.905186 
+
+[epoch  60] 	 train loss: 0.524204 	 val loss: 0.322207 	 validate acc: 0.901135 
+
+[epoch  61] 	 train loss: 0.426075 	 val loss: 0.332905 	 validate acc: 0.897893 
+
+[epoch  62] 	 train loss: 0.061085 	 val loss: 0.340480 	 validate acc: 0.907212 
+
+[epoch  63] 	 train loss: 0.432586 	 val loss: 0.334882 	 validate acc: 0.908023 
+
+[epoch  64] 	 train loss: 0.320453 	 val loss: 0.320854 	 validate acc: 0.908428 
+
+[epoch  65] 	 train loss: 0.221186 	 val loss: 0.315068 	 validate acc: 0.910454 
+
+[epoch  66:] 	 train loss: 0.369530 	val loss: 0.304897 	 validate acc: 0.906402 
+
+[epoch  67] 	 train loss: 0.302697 	 val loss: 0.322241 	 validate acc: 0.907212 
+
+[epoch  68] 	 train loss: 0.202104 	 val loss: 0.340922 	 validate acc: 0.899514 
+
+[epoch  69] 	 train loss: 0.425712                 val loss: 0.315365 	 validate acc: 0.906807 
+
+[epoch  70] 	 train loss: 0.368601 	 val loss: 0.334192 	 validate acc: 0.912075 
+
+[epoch  71] 	 train loss: 0.301647 	 val loss: 0.324369 	 validate acc: 0.903971 
+
+[epoch  72] 	 train loss: 0.314519 	val loss: 0.328193 	 validate acc: 0.907212 
+
+[epoch  73] 	 train loss: 0.210163 	 val loss: 0.310004 	 validate acc: 0.910049 
+
+[epoch  74] 	 train loss: 0.064697 	 val loss: 0.307431 	 validate acc: 0.906402 
+
+[epoch  75] 	 train loss: 0.114568 	 val loss: 0.335577 	 validate acc: 0.909238 
+
+[epoch  76] 	 train loss: 0.385008 	 val loss: 0.328422 	 validate acc: 0.912885 
+
+[epoch  77] 	 train loss: 0.130153 	 val loss: 0.335562 	 validate acc: 0.901135 
+
+[epoch  78 	 train loss: 0.137626 	 val loss: 0.319130 	 validate acc: 0.905186 
+
+[epoch  79] 	 train loss: 0.056499 	val loss: 0.338678 	 validate acc: 0.899514 
+
+[epoch  80] 	 train loss: 0.301492 	 val loss: 0.328505 	 validate acc: 0.905592 
+
+[epoch  81] 	 train loss: 0.261621 	 val loss: 0.313372 	 validate acc: 0.909643 
+
+[epoch  82] 	 train loss: 0.088575 	 val loss: 0.342377 	 validate acc: 0.908023 
+
+[epoch  83] 	 train loss: 0.238604                 val loss: 0.330571 	 validate acc: 0.906807 
+
+[epoch  84] 	 train loss: 0.295009 	 val loss: 0.319936 	 validate acc: 0.913695 
+
+[epoch  85] 	 train loss: 0.061268 	val loss: 0.297545 	 validate acc: 0.910859 
+
+[epoch  86] 	 train loss: 0.225226 	 val loss: 0.328377 	 validate acc: 0.907212 
+
+[epoch  87] 	 train loss: 0.130541 	 val loss: 0.330316 	 validate acc: 0.906402 
+
+[epoch  88] 	 train loss: 0.318116 	 val loss: 0.311457 	 validate acc: 0.911669 
+
+[epoch  89] 	 train loss: 0.196598                 val loss: 0.325146 	 validate acc: 0.910049 
+
+[epoch  90] 	 train loss: 0.391563 	 val loss: 0.318965 	 validate acc: 0.916126 
+
+[epoch  91] 	 train loss: 0.202200 	 val loss: 0.326815 	 validate acc: 0.910454 
+
+[epoch  92] 	 train loss: 0.347079 	 val loss: 0.305851 	 validate acc: 0.910859 
+
+[epoch  93] 	 train loss: 0.520332 	 val loss: 0.333735 	 validate acc: 0.908833 
+
+[epoch  94] 	 train loss: 0.114006 	val loss: 0.323310 	 validate acc: 0.913290 
+
+[epoch  95] 	 train loss: 0.114428 	 val loss: 0.325531 	 validate acc: 0.912480 
+
+[epoch  96] 	 train loss: 0.114945 	 val loss: 0.314667 	 validate acc: 0.911264 
+
+[epoch  97] 	 train loss: 0.235519 	 val loss: 0.304291 	 validate acc: 0.912075 
+
+[epoch  98] 	 train loss: 0.327760 	val loss: 0.298053 	 validate acc: 0.914100 
+
+[epoch  99] 	 train loss: 0.186233 	 val loss: 0.315205 	 validate acc: 0.909238 
+
+[epoch 100] 	 train loss: 0.224796 	val loss: 0.324039 	 validate acc: 0.905186 
+
+[epoch 101] 	 train loss: 0.196283		val loss: 0.310332 	 validate acc: 0.912075 
+	
+[epoch 102] 	 train loss: 0.219553 	 val loss: 0.316408 	 validate acc: 0.915316 
+
+[epoch 103] 	 train loss: 0.351977 	val loss: 0.294612 	 validate acc: 0.916532 
+
+[epoch 104] 	 train loss: 0.311641 	 val loss: 0.312956 	 validate acc: 0.914506 
+
+[epoch 105] 	 train loss: 0.080683 	 val loss: 0.291828 	 validate acc: 0.916937 
+
+[epoch 106] 	 train loss: 0.199701 	 val loss: 0.333474 	 validate acc: 0.910454 
+
+[epoch 107] 	 train loss: 0.228268 	 val loss: 0.315302 	 validate acc: 0.913290 
+
+[epoch 108] 	 train loss: 0.154321 	val loss: 0.294069 	 validate acc: 0.916126 
+
+[epoch 109] 	 train loss: 0.203040 	 val loss: 0.309062 	 validate acc: 0.914100 
+
+[epoch 110] 	 train loss: 0.216889 	 val loss: 0.310145 	 validate acc: 0.915721 
+
+[epoch 111] 	 train loss: 0.100457 	 val loss: 0.327385 	 validate acc: 0.909238 
+
+[epoch 112] 	 train loss: 0.070002 	 val loss: 0.302163 	 validate acc: 0.913290 
+
+[epoch 113] 	 train loss: 0.376637 	 val loss: 0.312723 	 validate acc: 0.911264 
+
+[epoch 114:] 	 train loss: 0.316985 	val loss: 0.319117 	 validate acc: 0.911669 
+
+[epoch 115] 	 train loss: 0.442484 	val loss: 0.304756 	 validate acc: 0.917342 
+
+[epoch 116] 	 train loss: 0.263115 	 val loss: 0.304353 	 validate acc: 0.912480 
+
+[epoch 117] 	 train loss: 0.344715 	 val loss: 0.316308 	 validate acc: 0.912480 
+
+[epoch 118] 	 train loss: 0.441504 	val loss: 0.324255 	 validate acc: 0.910454 
+
+[epoch 119] 	 train loss: 0.140436 	val loss: 0.315663 	 validate acc: 0.912480 
+
+[epoch 120] 	 train loss: 0.149184 	val loss: 0.330795 	 validate acc: 0.913290 
+
+[epoch 121] 	 train loss: 0.230772 	val loss: 0.309756 	 validate acc: 0.908428 
+
+[epoch 122] 	 train loss: 0.158714 	 val loss: 0.317231 	 validate acc: 0.912480 
+
+[epoch 123] 	 train loss: 0.171264 	val loss: 0.314471 	 validate acc: 0.914100 
+
+[epoch 124] 	 train loss: 0.22767		val loss: 0.322779 	 validate acc: 0.910859 
+
+[epoch 125] 	 train loss: 0.187552 	 val loss: 0.332493 	 validate acc: 0.911669 
+
+[epoch 126] 	 train loss: 0.038851 	 val loss: 0.326231 	 validate acc: 0.911669 
+
+[epoch 127] 	 train loss: 0.118513 	 val loss: 0.328706 	 validate acc: 0.911669 
+
+[epoch 128] 	 train loss: 0.290938 	val loss: 0.322903 	 validate acc: 0.910049 
+
+[epoch 129] 	 train loss: 0.236217 	 val loss: 0.318781 	 validate acc: 0.911669 
+
+[epoch 130] 	 train loss: 0.332047 	 val loss: 0.309488 	 validate acc: 0.915721 
+
+[epoch 131] 	 train loss: 0.571398 	 val loss: 0.329554 	 validate acc: 0.916126 
+
+[epoch 132] 	 train loss: 0.217785 	 val loss: 0.317165 	 validate acc: 0.914911 
+
+[epoch 133] 	 train loss: 0.055393 	 val loss: 0.321691 	 validate acc: 0.916532 
+
+[epoch 134] 	 train loss: 0.060144 	val loss: 0.323199 	 validate acc: 0.910454 
+
+[epoch 135] 	 train loss: 0.052752 	 val loss: 0.325947 	 validate acc: 0.914100 
+
+[epoch 136] 	 train loss: 0.117662 	val loss: 0.322315 	 validate acc: 0.915721 
+
+[epoch 137] 	 train loss: 0.214738 	val loss: 0.318075 	 validate acc: 0.913290 
+
+[epoch 138] 	 train loss: 0.070083 	 val loss: 0.319699 	 validate acc: 0.912885 
+
+[epoch 139] 	 train loss: 0.256382 	 val loss: 0.323967 	 validate acc: 0.914506 
+
+[epoch 140] 	 train loss: 0.107008 	val loss: 0.333828 	 validate acc: 0.908023 
+
+[epoch 141] 	 train loss: 0.139990 	 val loss: 0.323203 	 validate acc: 0.912885 
+
+[epoch 142] 	 train loss: 0.166862 	 val loss: 0.312167 	 validate acc: 0.916126 
+
+[epoch 143] 	 train loss: 0.512437 	 val loss: 0.302135 	 validate acc: 0.911264 
+
+[epoch 144] 	 train loss: 0.051878 	 val loss: 0.320388 	 validate acc: 0.913695 
+
+[epoch 145] 	 train loss: 0.151685 	 val loss: 0.333435 	 validate acc: 0.915721 
+
+[epoch 146] 	 train loss: 0.280702 	 val loss: 0.317438 	 validate acc: 0.912480 
+
+[epoch 147] 	 train loss: 0.179437 	 val loss: 0.322021 	 validate acc: 0.910859 
+
+[epoch 148] 	 train loss: 0.205854 	 val loss: 0.331613 	 validate acc: 0.909643 
+
+[epoch 149] 	 train loss: 0.091681 	val loss: 0.333649 	 validate acc: 0.914911 
+
+[epoch 150] 	 train loss: 0.604930 	 val loss: 0.323128 	 validate acc: 0.915721 
+
+[epoch 151] 	 train loss: 0.212746 	 val loss: 0.321325 	 validate acc: 0.910859 
+
+[epoch 152] 	 train loss: 0.077856 	 val loss: 0.321077 	 validate acc: 0.913290 
+
+[epoch 153] 	 train loss: 0.085194 	 val loss: 0.320645 	 validate acc: 0.914911 
+
+[epoch 154] 	 train loss: 0.126141 	val loss: 0.313137 	 validate acc: 0.917747 
+
+[epoch 155] 	 train loss: 0.134273 	 val loss: 0.312622 	 validate acc: 0.916937 
+
+[epoch 156] 	 train loss: 0.128447 	val loss: 0.335554 	 validate acc: 0.912075 
+
+[epoch 157] 	 train loss: 0.091136 	 val loss: 0.327943 	 validate acc: 0.908428 
+
+[epoch 158] 	 train loss: 0.137061 	 val loss: 0.328217 	 validate acc: 0.912480 
+
+[epoch 159] 	 train loss: 0.146065 	val loss: 0.324207 	 validate acc: 0.911669 
+
+[epoch 160] 	 train loss: 0.051446 	 val loss: 0.317575 	 validate acc: 0.916126 
+
+[epoch 161] 	 train loss: 0.339864 	 val loss: 0.318688 	 validate acc: 0.909238 
+
+[epoch 162] 	 train loss: 0.245437 	 val loss: 0.313544 	 validate acc: 0.916532 
+
+[epoch 163] 	 train loss: 0.180385 	 val loss: 0.311090 	 validate acc: 0.915316 
+
+[epoch 164] 	 train loss: 0.318290 	val loss: 0.328256 	 validate acc: 0.912075 
+
+[epoch 165] 	 train loss: 0.021191 	 val loss: 0.309380 	 validate acc: 0.911669 
+
+[epoch 166] 	 train loss: 0.082298 	 val loss: 0.331160 	 validate acc: 0.912075 
+
+[epoch 167] 	 train loss: 0.193192 	 val loss: 0.334075 	 validate acc: 0.911669 
+
+[epoch 168] 	 train loss: 0.272167 	val loss: 0.333171 	 validate acc: 0.916126 
+
+[epoch 169] 	 train loss: 0.160076 	 val loss: 0.332937 	 validate acc: 0.911669 
+
+Best validate acc: 0.921799 
